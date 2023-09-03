@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[class ='chakra-alert__title css-tidvy5']"
+}

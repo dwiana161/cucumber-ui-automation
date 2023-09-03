@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".chakra-button.css-1piskbq"
+}
